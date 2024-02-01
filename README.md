@@ -4,7 +4,7 @@
 
 <h2>Objetivos: </h2>
 <ul>
-<li>Aplicar os conhecimentos aprendidos até o momento no curso para a construção de um projeto</li>
+<li>Aplicar os conhecimentos aprendidos até o momento no curso para a construção de um projeto.</li>
 
 </ul>
 
